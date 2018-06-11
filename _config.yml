@@ -13,11 +13,12 @@ comment:
     #disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
-# Socialsocial:
+# Social
+social:
     weibo: 如风的少年sky
     github: LLJM
-   # twitter:
-    mail: liu1996985@gamil.com
+    # twitter:
+    mail: liu1996985@gmail.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
